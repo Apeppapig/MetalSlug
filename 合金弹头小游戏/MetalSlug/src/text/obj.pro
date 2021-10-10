@@ -1,0 +1,11 @@
+game_map=element.GameMap
+helicopter=element.Helicopter
+player_body=element.PlayerBody
+player_leg=element.PlayerLegs
+player_bullet=element.PlayerBullet
+hostage=element.Hostage
+player_prop=element.PlayerProp
+boss=element.Boss
+guard_enemy=element.GuardEnemy
+infantry_enemy=element.InfantryEnemy
+infantry_bullet=element.InfantryBullet

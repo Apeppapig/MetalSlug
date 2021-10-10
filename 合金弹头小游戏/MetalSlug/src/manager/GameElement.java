@@ -1,0 +1,7 @@
+package manager;
+
+public enum GameElement {
+	//枚举类型的顺序是声明的顺序
+	MAPS,HELICOPTER,BOSS_BULLET,BOSS,ENEMY,INFANTRY_BULLET,BOMB,HOSTAGE,PLAYER_PROP,
+	PLAYER,PLAYER_BULLET,DIE;
+}
